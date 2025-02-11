@@ -60,6 +60,8 @@ let's look at the distribution of all the features in the data:
 ### Results for models: 
 #### Decision Tree:
 <img width="438" alt="Screenshot 2025-02-12 at 1 29 18" src="https://github.com/user-attachments/assets/b79fb541-829c-43ce-a317-740f5b1ddcc9" />
+ 
+ 
  we even looked into the tree to try and analyze the decisions in each node: 
  
 <img width="543" alt="Screenshot 2025-02-12 at 1 29 06" src="https://github.com/user-attachments/assets/a1873a36-9aec-4e5a-9469-3c22f6755bbc" />
@@ -72,6 +74,8 @@ we even looked at the feature importance to try and understand the decision maki
 
 #### XGBOOST:
 <img width="437" alt="Screenshot 2025-02-12 at 1 32 12" src="https://github.com/user-attachments/assets/b4d3408b-b4cd-42b3-92b4-9ee81477cd91" />
+
+
 we even looked at the feature importance to try and understand the decision making of that model: 
 <img width="576" alt="Screenshot 2025-02-12 at 1 32 18" src="https://github.com/user-attachments/assets/45c97987-3564-4aa5-b8a0-4d3a8d753a3a" />
 
