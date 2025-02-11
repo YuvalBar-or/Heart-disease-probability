@@ -16,6 +16,7 @@ Risk Categories:
 - Medium Risk: 30–70%
 - High Risk: >70%
 
+## About the project:
 This project is a machine learning-based web application designed to predict the likelihood of heart disease using different classification models. <br/>
 In this project we aimed to see if simpler models like Decision Trees, Random Forest, and XGBoost could help in predicting heart disease. However, for the final app we designed, we used a more complex model using Neural Networks (NN). 
 
