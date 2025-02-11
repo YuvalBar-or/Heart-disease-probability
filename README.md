@@ -50,10 +50,6 @@ let's look at the distribution of all the features in the data:
 <img width="578" alt="Screenshot 2025-02-12 at 1 26 08" src="https://github.com/user-attachments/assets/f71bc6e0-141b-4ec7-b33c-252389df0bac" />
 
 
-
-
-
-
 ## Models Used:
 - **Decision Tree**: A basic yet effective machine learning model that splits the data into branches based on certain decision rules.
 - **Random Forest**: An ensemble learning technique that uses multiple decision trees to improve the model's accuracy and reduce overfitting.
@@ -61,6 +57,25 @@ let's look at the distribution of all the features in the data:
 
   While these models were explored to see if simpler models can work efficiently for heart disease prediction, the final app uses a Neural Network (NN) model that performed better on the data.
 
+### Results for models: 
+#### Decision Tree:
+<img width="438" alt="Screenshot 2025-02-12 at 1 29 18" src="https://github.com/user-attachments/assets/b79fb541-829c-43ce-a317-740f5b1ddcc9" />
+ we even looked into the tree to try and analyze the decisions in each node: 
+ 
+<img width="543" alt="Screenshot 2025-02-12 at 1 29 06" src="https://github.com/user-attachments/assets/a1873a36-9aec-4e5a-9469-3c22f6755bbc" />
+
+#### RandomForest: 
+<img width="431" alt="Screenshot 2025-02-12 at 1 30 52" src="https://github.com/user-attachments/assets/c00ab244-cd28-4118-91fd-4d5aa17750ec" />
+
+we even looked at the feature importance to try and understand the decision making of that model: 
+<img width="574" alt="Screenshot 2025-02-12 at 1 31 03" src="https://github.com/user-attachments/assets/e33c2da7-4675-449a-a83d-0dbdb8d49806" />
+
+#### XGBOOST:
+<img width="437" alt="Screenshot 2025-02-12 at 1 32 12" src="https://github.com/user-attachments/assets/b4d3408b-b4cd-42b3-92b4-9ee81477cd91" />
+we even looked at the feature importance to try and understand the decision making of that model: 
+<img width="576" alt="Screenshot 2025-02-12 at 1 32 18" src="https://github.com/user-attachments/assets/45c97987-3564-4aa5-b8a0-4d3a8d753a3a" />
+
+#### NN: 
 
 ## Reason for Using Neural Networks in the App
 While simpler models like Decision Trees, Random Forest, and XGBoost were initially explored to see if they could help in predicting heart disease, they had limitations in terms of performance and complexity. <br/>
