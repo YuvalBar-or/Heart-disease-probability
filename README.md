@@ -25,6 +25,20 @@ The dataset consists of several features relevant to heart disease prediction. E
 12. **Number of Major Vessels Colored by Fluoroscopy (ca)**: This refers to the number of blood vessels that were colored by fluoroscopy during the exam.
 13. **Thalassemia (thal)**: A condition involving blood cells. It can impact heart health, making this an important feature for prediction.
 
+### Lets have a quick look at the data: 
+<img width="669" alt="Screenshot 2025-02-12 at 1 18 29" src="https://github.com/user-attachments/assets/97be917a-96e8-4bbe-abaf-60379d88692d" />
+<img width="969" alt="Screenshot 2025-02-12 at 1 20 20" src="https://github.com/user-attachments/assets/fd6006b0-ad16-4e2d-8939-5d90ddcdf84a" />
+<img width="583" alt="Screenshot 2025-02-12 at 1 20 29" src="https://github.com/user-attachments/assets/236d6c56-7052-42c0-846f-a004071f8acf" />
+
+<br/>
+let's look at the distribution of all the features in the data: 
+<br/>
+<br/>
+<br/>
+
+
+
+
 
 ## Models Used:
 - **Decision Tree**: A basic yet effective machine learning model that splits the data into branches based on certain decision rules.
