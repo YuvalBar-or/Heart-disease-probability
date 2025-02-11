@@ -35,6 +35,20 @@ let's look at the distribution of all the features in the data:
 <br/>
 <br/>
 <br/>
+<img width="580" alt="Screenshot 2025-02-12 at 1 24 17" src="https://github.com/user-attachments/assets/cb407d35-e4b7-4bd5-85b4-23b0b121c6e7" />
+<img width="565" alt="Screenshot 2025-02-12 at 1 24 24" src="https://github.com/user-attachments/assets/b1494467-6c8a-4ac8-8707-a32686352ea1" />
+<img width="562" alt="Screenshot 2025-02-12 at 1 25 05" src="https://github.com/user-attachments/assets/eed27007-0d0f-4cec-818a-fa4fddaba840" />
+<img width="574" alt="Screenshot 2025-02-12 at 1 25 13" src="https://github.com/user-attachments/assets/2136b7d3-6365-4f1a-92e1-332d7655b55e" />
+<img width="573" alt="Screenshot 2025-02-12 at 1 24 10" src="https://github.com/user-attachments/assets/9d41e454-fc0b-49b2-8539-e7f7ddf0acb7" />
+<img width="565" alt="Screenshot 2025-02-12 at 1 24 37" src="https://github.com/user-attachments/assets/c56ca9ee-ec8b-4227-a701-4469e15415c8" />
+<img width="562" alt="Screenshot 2025-02-12 at 1 24 30" src="https://github.com/user-attachments/assets/0fef8572-824f-4345-9d72-6cde1b8300c7" />
+<img width="569" alt="Screenshot 2025-02-12 at 1 25 32" src="https://github.com/user-attachments/assets/3971dc60-b5a1-4467-a7e6-4b89f4803b57" />
+<img width="568" alt="Screenshot 2025-02-12 at 1 25 39" src="https://github.com/user-attachments/assets/b8f1e9ea-6b3e-4217-9b5e-64391c05530f" />
+<img width="567" alt="Screenshot 2025-02-12 at 1 25 45" src="https://github.com/user-attachments/assets/d692c68b-243d-4b00-af26-146c72eb04fe" />
+<img width="570" alt="Screenshot 2025-02-12 at 1 25 55" src="https://github.com/user-attachments/assets/0cfdb880-8e5a-49a4-9275-0188ab8e81c2" />
+<img width="573" alt="Screenshot 2025-02-12 at 1 26 02" src="https://github.com/user-attachments/assets/db19b842-4c00-4036-a96d-b8147c8c547f" />
+<img width="578" alt="Screenshot 2025-02-12 at 1 26 08" src="https://github.com/user-attachments/assets/f71bc6e0-141b-4ec7-b33c-252389df0bac" />
+
 
 
 
