@@ -1,5 +1,8 @@
 # Heart Disease Probabilty
 
+The link to out app : <br/>
+https://heart-disease-probability-9ivfcw5g2epgartph9ek8r.streamlit.app/
+
 This project is a machine learning-based web application designed to predict the likelihood of heart disease using different classification models. <br/>
 In this project we aimed to see if simpler models like Decision Trees, Random Forest, and XGBoost could help in predicting heart disease. However, for the final app we designed, we used a more complex model using Neural Networks (NN). 
 
@@ -80,13 +83,29 @@ we even looked at the feature importance to try and understand the decision maki
 <img width="576" alt="Screenshot 2025-02-12 at 1 32 18" src="https://github.com/user-attachments/assets/45c97987-3564-4aa5-b8a0-4d3a8d753a3a" />
 
 #### NN: 
+for this model, we ran it 3 times : 15 epochs , 30 epochs and 60 epochs. 
+
+##### 15 epochs: 
+<img width="428" alt="Screenshot 2025-02-12 at 1 35 29" src="https://github.com/user-attachments/assets/c2741833-afa8-4d66-9a8e-f78b806b642b" />
+<img width="639" alt="Screenshot 2025-02-12 at 1 35 37" src="https://github.com/user-attachments/assets/d04987bc-6f05-467f-8e11-f5b0ae7f8d56" />
+
+##### 30 epochs: 
+<img width="427" alt="Screenshot 2025-02-12 at 1 36 10" src="https://github.com/user-attachments/assets/10aa1832-ebbb-45ff-addf-47f06ad9f4bc" />
+<img width="640" alt="Screenshot 2025-02-12 at 1 36 17" src="https://github.com/user-attachments/assets/1ed38e29-5a6c-40a9-bedd-279c68b99de3" />
+
+
+##### 60 epochs: 
+<img width="435" alt="Screenshot 2025-02-12 at 1 37 04" src="https://github.com/user-attachments/assets/82feb028-2278-4e14-88b1-ae0581975b39" />
+<img width="646" alt="Screenshot 2025-02-12 at 1 37 11" src="https://github.com/user-attachments/assets/c2308df3-8ad9-44cc-9642-435a3c1c78d1" />
+
+
 
 ## Reason for Using Neural Networks in the App
 While simpler models like Decision Trees, Random Forest, and XGBoost were initially explored to see if they could help in predicting heart disease, they had limitations in terms of performance and complexity. <br/>
 A Neural Network was ultimately chosen for the app because it could capture complex patterns in the data, leading to better prediction results. Neural Networks are well-suited for this type of problem, where the relationships between variables are nonlinear and complex.
 
   
-## Results: 
+## The App : 
 Risk Categories:
 - Low Risk: <30%
 - Medium Risk: 30–70%
