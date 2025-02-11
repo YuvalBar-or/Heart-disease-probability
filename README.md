@@ -1,6 +1,6 @@
 # Heart Disease Probabilty
 
- ## Think your heart’s just fine? Let’s put it to the test! <br/>
+ ##### Think your heart’s just fine? Let’s put it to the test! <br/>
 https://heart-disease-probability-9ivfcw5g2epgartph9ek8r.streamlit.app/
 
 This project is a machine learning-based web application designed to predict the likelihood of heart disease using different classification models. <br/>
