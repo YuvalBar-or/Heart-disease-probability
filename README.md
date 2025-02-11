@@ -1,6 +1,6 @@
 # Heart Disease Probabilty
 
- ##### Think your heart’s just fine? Let’s put it to the test! <br/>
+ #### Think your heart’s just fine? Let’s put it to the test! <br/>
 https://heart-disease-probability-9ivfcw5g2epgartph9ek8r.streamlit.app/
 
 This project is a machine learning-based web application designed to predict the likelihood of heart disease using different classification models. <br/>
@@ -97,7 +97,6 @@ for this model, we ran it 3 times : 15 epochs , 30 epochs and 60 epochs.
 ##### 60 epochs: 
 <img width="435" alt="Screenshot 2025-02-12 at 1 37 04" src="https://github.com/user-attachments/assets/82feb028-2278-4e14-88b1-ae0581975b39" />
 <img width="646" alt="Screenshot 2025-02-12 at 1 37 11" src="https://github.com/user-attachments/assets/c2308df3-8ad9-44cc-9642-435a3c1c78d1" />
-
 
 
 ## Reason for Using Neural Networks in the App
