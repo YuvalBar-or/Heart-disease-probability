@@ -3,6 +3,19 @@
  #### Think your heart’s just fine? Let’s put it to the test! <br/>
 https://heart-disease-probability-9ivfcw5g2epgartph9ek8r.streamlit.app/
 
+## The App : 
+Upon logging into the app, you'll be greeted with a brief explanation of how it works:
+<img width="692" alt="Screenshot 2025-02-12 at 1 46 00" src="https://github.com/user-attachments/assets/ae2b243d-9aca-487b-88d4-842b1495fb7e" />
+
+Next, you’ll be prompted to answer a series of questions (some may require assistance from a healthcare professional or specific medical tests). <br/>
+Once completed, the app will process all your inputs and provide you with a probability result indicating your likelihood of having heart disease. <br/> 
+GOOD LUCK ! and may the odds be ever in your favor ! 
+
+Risk Categories:
+- Low Risk: <30%
+- Medium Risk: 30–70%
+- High Risk: >70%
+
 This project is a machine learning-based web application designed to predict the likelihood of heart disease using different classification models. <br/>
 In this project we aimed to see if simpler models like Decision Trees, Random Forest, and XGBoost could help in predicting heart disease. However, for the final app we designed, we used a more complex model using Neural Networks (NN). 
 
@@ -104,11 +117,7 @@ While simpler models like Decision Trees, Random Forest, and XGBoost were initia
 A Neural Network was ultimately chosen for the app because it could capture complex patterns in the data, leading to better prediction results. Neural Networks are well-suited for this type of problem, where the relationships between variables are nonlinear and complex.
 
   
-## The App : 
-Risk Categories:
-- Low Risk: <30%
-- Medium Risk: 30–70%
-- High Risk: >70%
+
 
 
 
